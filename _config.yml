@@ -20,7 +20,7 @@ sidebar-avatar1: /img/grass.png
 # SNS settings
 RSS: false
 weibo_username:     sjunhao
-zhihu_username:     acail acail
+zhihu_username:     acail-acail
 github_username:    acail22
 csdn_username:    acail
 #facebook_username:
@@ -64,11 +64,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 1ed56e618c6a157c95fb                            #生成的clientID
-  clientSecret: 6ce427c53d99affdb0c17c05148f14c0e5d3405a    #生成的clientSecret
-  repo: 29DCH.github.io    #仓库名称
-  owner: 29DCH    #github用户名
-  admin: 29DCH
+  clientID: f581343ad4647d9d5fb9                            #生成的clientID
+  clientSecret: 52e2cd70f1860f4760b4fce294811a4e02d02bd3    #生成的clientSecret
+  repo: acail22.github.io    #仓库名称
+  owner: acail22    #github用户名
+  admin: acail22
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
