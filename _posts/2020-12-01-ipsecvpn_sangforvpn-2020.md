@@ -1,3 +1,16 @@
+---
+layout:     post
+title:     ipsecvpn_sangforvpn
+subtitle:   ipsecvpn_sangforvpn
+date:       2020-12-01
+author:     BY Acail
+header-img: img/post-bg-2.jpg
+catalog: true
+tags:	
+    - sangfor
+    - test
+---
+
 IPSECVPN建立过程实验
 
 1.  实验环境如图：
